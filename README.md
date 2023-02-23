@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [http://bit.ly/3kpwAhW](http://bit.ly/3kpwAhW)
 
+- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmefawzy&show_icons=true&locale=en" alt="ahmefawzy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmefawzy&" alt="ahmefawzy" /></p>
+
+
