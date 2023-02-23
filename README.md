@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ahmedfawzy286@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/413HzhF](http://bit.ly/413HzhF)
+- 📄 Know about my experiences [https://bit.ly/3InVAhC](https://bit.ly/3InVAhC)
 
 - ⚡ Fun fact **I think I am energetic**
 
