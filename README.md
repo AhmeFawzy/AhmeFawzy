@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [http://bit.ly/3kpwAhW](http://bit.ly/3kpwAhW)
 
-- ⚡ Fun fact **I think I am energetic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
