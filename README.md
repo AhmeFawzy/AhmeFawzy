@@ -14,6 +14,10 @@
 
 - 📄 Know about my experiences [http://bit.ly/3kpwAhW](http://bit.ly/3kpwAhW)
 
+- :nerd_face: Always `learning new things`
+
+- 🐼 Doing my best  
+
 - ⚡ Fun fact **I think I am funny**
 
 
